@@ -25,7 +25,7 @@ Certifique-se de ter Python 3.12.4 e Playwright instalados na sua máquina.
 
 1. Clone o repositório:
     ```sh
-    git clone https://github.com/fkgrupo/robot-sac-carrier-notification
+    git clone https://github.com/victor/robot-sac-carrier-notification
     ```
   
 2. Crie um ambiente virtual:
